@@ -1,0 +1,9 @@
+Script started on 2021-01-30 11:39:48+05:30 [TERM="alacritty" TTY="/dev/pts/2" COLUMNS="69" LINES="32"]
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hbbash[?1l>[?2004l
+]2;bash]1;bash[?2004h$ echo a
+[?2004la
+[?2004h$ [?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on 2021-01-30 11:39:56+05:30 [COMMAND_EXIT_CODE="0"]

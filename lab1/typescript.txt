@@ -1,0 +1,139 @@
+Script started on 2021-01-30 11:12:20+05:30 [TERM="alacritty" TTY="/dev/pts/0" COLUMNS="69" LINES="32"]
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hffor i in {00..10}
+do echo $i[K
+done[K[A[A[36C[1B[10C      ot  touch [?2004l[1B
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;31m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004heexport Ro OLL=19BCE743 15SS[?1l>[?2004l
+]2;export ROLL=19BCE7415SS ]1;export[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hexport ROLL=19BCE7415SS[23Dscrip[2C                [17Dcd lab1script [1C    s  ffor i in {00..10}
+do echo $i[K
+done[K[A[A[36C[1B[1C[1C[1Ccho $i ho $i o $i  $i t $io $iu $ic $ih $i[1C[1C$iR$iO$iL$iL$i[1C $ROLL$i [9D $ROLL$i [9D $ROLL$i [9D $ROLL$i [9D $ROLL$i [9De $ROLL$i[8Dc $ROLL$i[8Dh $ROLL$i[8Do $ROLL$i[8D[?1l>[?2004l[1B
+]2;for i in {00..10}; do; echo $ROLL$i; done]1;for19BCE7415SS00
+19BCE7415SS01
+19BCE7415SS02
+19BCE7415SS03
+19BCE7415SS04
+19BCE7415SS05
+19BCE7415SS06
+19BCE7415SS07
+19BCE7415SS08
+19BCE7415SS09
+19BCE7415SS10
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hfor i in {00..10}
+do echo $ROLL$i[K
+done[K[A[A[36C[1B[1C[1C[1C[1C[1C[1C[1C $ROLL$i [9D $ROLL$i [9D $ROLL$i [9D $ROLL$i [9Dt $ROLL$i[8Do $ROLL$i[8Du $ROLL$i[8Dc $ROLL$i[8Dh $ROLL$i[8D[?1l>[?2004l[1B
+]2;for i in {00..10}; do; touch $ROLL$i; done]1;for[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hffor i in {0..4}[?1l>[?2004l
+[0m[27m[24m[Jfor> [K[?1h=[?2004hddo mkdir [?2004l
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;31m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hmmkdir 0/1/2/3/[14D[1C[1C[1C[1C[1C[1C 0/1/2/3/[9D- 0/1/2/3/[9Dp 0/1/2/3/[9D[?1l>[?2004l
+]2;mkdir -p 0/1/2/3/]1;mkdir[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd 0[1m/[0m[0m [?1l>[?2004l
+]2;cd 0]1;cd[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hffor i in {0..4}0..10}
+do touch $ROLL$i[K
+done[K[A[A[33C[?1l>[?2004l[2B
+]2;for i in {00..10}; do; touch $ROLL$i; done]1;for[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd 1[1m/[0m[0m/2[1m/[0m[0m  [?1l>[?2004l
+]2;cd 1/]1;cd[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1]1;..2010/lab1/0/1[0m[27m[24m[J[01;32m➜  [36m1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hffor i in {00..10}
+do touch $ROLL$i[K
+done[K[A[A[33C[?1l>[?2004l[2B
+]2;for i in {00..10}; do; touch $ROLL$i; done]1;for[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1]1;..2010/lab1/0/1[0m[27m[24m[J[01;32m➜  [36m1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls19BCE7415SS00  19BCE7415SS03  19BCE7415SS06  19BCE7415SS09
+19BCE7415SS01  19BCE7415SS04  19BCE7415SS07  19BCE7415SS10
+19BCE7415SS02  19BCE7415SS05  19BCE7415SS08  [0m[01;34m2[0m
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1]1;..2010/lab1/0/1[0m[27m[24m[J[01;32m➜  [36m1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd 2[1m/[0m[0m [?1l>[?2004l
+]2;cd 2]1;cd[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1/2]1;..10/lab1/0/1/2[0m[27m[24m[J[01;32m➜  [36m2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htttt[?2004l
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1/2]1;..10/lab1/0/1/2[0m[27m[24m[J[01;31m➜  [36m2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hffor i in {00..10}
+do touch $ROLL$i[K
+done[K[A[A[33C[?1l>[?2004l[2B
+]2;for i in {00..10}; do; touch $ROLL$i; done]1;for[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1/2]1;..10/lab1/0/1/2[0m[27m[24m[J[01;32m➜  [36m2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd 3[1m/[0m[0m [?1l>[?2004l
+]2;cd 3]1;cd[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1/2/3]1;../lab1/0/1/2/3[0m[27m[24m[J[01;32m➜  [36m3[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hffor i in {00..10}
+do touch $ROLL$i[K
+done[K[A[A[33C[?1l>[?2004l[2B
+]2;for i in {00..10}; do; touch $ROLL$i; done]1;for[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1/2/3]1;../lab1/0/1/2/3[0m[27m[24m[J[01;32m➜  [36m3[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h....[?1l>[?2004l
+]2;../..]1;...[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1]1;..2010/lab1/0/1[0m[27m[24m[J[01;32m➜  [36m1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34m1[0m              19BCE7415SS02  19BCE7415SS05  19BCE7415SS08
+19BCE7415SS00  19BCE7415SS03  19BCE7415SS06  19BCE7415SS09
+19BCE7415SS01  19BCE7415SS04  19BCE7415SS07  19BCE7415SS10
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004httree[?1l>[?2004l
+]2;tree]1;tree[01;34m.[00m
+├── [01;34m1[00m
+│   ├── 19BCE7415SS00
+│   ├── 19BCE7415SS01
+│   ├── 19BCE7415SS02
+│   ├── 19BCE7415SS03
+│   ├── 19BCE7415SS04
+│   ├── 19BCE7415SS05
+│   ├── 19BCE7415SS06
+│   ├── 19BCE7415SS07
+│   ├── 19BCE7415SS08
+│   ├── 19BCE7415SS09
+│   ├── 19BCE7415SS10
+│   └── [01;34m2[00m
+│       ├── 19BCE7415SS00
+│       ├── 19BCE7415SS01
+│       ├── 19BCE7415SS02
+│       ├── 19BCE7415SS03
+│       ├── 19BCE7415SS04
+│       ├── 19BCE7415SS05
+│       ├── 19BCE7415SS06
+│       ├── 19BCE7415SS07
+│       ├── 19BCE7415SS08
+│       ├── 19BCE7415SS09
+│       ├── 19BCE7415SS10
+│       └── [01;34m3[00m
+│           ├── 19BCE7415SS00
+│           ├── 19BCE7415SS01
+│           ├── 19BCE7415SS02
+│           ├── 19BCE7415SS03
+│           ├── 19BCE7415SS04
+│           ├── 19BCE7415SS05
+│           ├── 19BCE7415SS06
+│           ├── 19BCE7415SS07
+│           ├── 19BCE7415SS08
+│           ├── 19BCE7415SS09
+│           └── 19BCE7415SS10
+├── 19BCE7415SS00
+├── 19BCE7415SS01
+├── 19BCE7415SS02
+├── 19BCE7415SS03
+├── 19BCE7415SS04
+├── 19BCE7415SS05
+├── 19BCE7415SS06
+├── 19BCE7415SS07
+├── 19BCE7415SS08
+├── 19BCE7415SS09
+└── 19BCE7415SS10
+
+3 directories, 44 files
+[1m[7m%[27m[1m[0m                                                                     ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd 1[1m/[0m[0m  c  ffor i in *[?1l>[?2004l
+[0m[27m[24m[Jfor> [K[?1h=[?2004hddo if [ $i [0m[27m[24m[Jfor> do if [ $i   ! -d $i ][?1l>[?2004l
+[0m[27m[24m[Jfor if> [K[?1h=[?2004htthen rm $i[?1l>[?2004l
+[0m[27m[24m[Jfor then> [K[?1h=[?2004hddone  d  ffi[?1l>[?2004l
+[0m[27m[24m[Jfor> [K[?1h=[?2004hddobn  ne[?1l>[?2004l
+]2;for i in *; do; if [ ! -d $i ]; then; /usr/bin/safe-rm $i; fi; done]1;for[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34m1[0m
+[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd 1[1m/[0m[0m [?1l>[?2004l
+]2;cd 1]1;cd[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1]1;..2010/lab1/0/1[0m[27m[24m[J[01;32m➜  [36m1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm *.docx[?1l>[?2004l
+]2;/usr/bin/safe-rm *.docx]1;rmzsh: no matches found: *.docx
+[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1]1;..2010/lab1/0/1[0m[27m[24m[J[01;31m➜  [36m1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd 2[1m/[0m[0m [?1l>[?2004l
+]2;cd 2]1;cd[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1/2]1;..10/lab1/0/1/2[0m[27m[24m[J[01;32m➜  [36m2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm *.docxlab1.zip[8D*.docx  S.docxS.docx*.docx[?1l>[?2004l
+]2;/usr/bin/safe-rm *SS*.docx]1;rmzsh: no matches found: *SS*.docx
+[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0/1/2]1;..10/lab1/0/1/2[0m[27m[24m[J[01;31m➜  [36m2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h....[?1l>[?2004l
+]2;../..]1;...[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1/0]1;..se2010/lab1/0[0m[27m[24m[J[01;32m➜  [36m0[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34m0[0m              19BCE7415SS04  19BCE7415SS09
+19BCE7415SS00  19BCE7415SS05  19BCE7415SS10
+19BCE7415SS01  19BCE7415SS06  typescript
+19BCE7415SS02  19BCE7415SS07
+19BCE7415SS03  19BCE7415SS08
+[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004ht ffor i in {00..10}
+do touch $ROLL$i[K
+done[K[A[A[36C..10} 1..10}[1C1..10} [1C1..10}[1C[1C[1C[1C0} 20}[?1l>[?2004l[2B
+]2;for i in {11..20}; do; touch $ROLL$i; done]1;for[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hfor i in {11..20}
+do touch $ROLL$i[K
+done[K[A[A[36C[1C[1C[1C[1C[1C[1B[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C $ROLL$i [9D $ROLL$i [9D $ROLL$i [9D $ROLL$i [9D $ROLL$i [9Dr $ROLL$i[8Dm $ROLL$i[8D[?1l>[?2004l[1B
+]2;for i in {11..20}; do; /usr/bin/safe-rm $ROLL$i; done]1;for[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34m0[0m              19BCE7415SS04  19BCE7415SS09
+19BCE7415SS00  19BCE7415SS05  19BCE7415SS10
+19BCE7415SS01  19BCE7415SS06  typescript
+19BCE7415SS02  19BCE7415SS07
+19BCE7415SS03  19BCE7415SS08
+[1m[7m%[27m[1m[0m                                              ]2;aravinth@computer: ~/code/uni-stuff/cse2010/lab1]1;../cse2010/lab1[0m[27m[24m[J[01;32m➜  [36mlab1[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on 2021-01-30 11:20:54+05:30 [COMMAND_EXIT_CODE="0"]
